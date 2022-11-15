@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me : I am a Full-Stack Developer based in Durham, UK.
 
-- 🔭 I’m currently working on a group project, building a mobile app that allows users to create and take part in custom walking tours. 
+- 🔭 I’m currently working on a kanban board project for use in educational settings, using Firebase, React, and Material UI.
 - 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about nested ternary operators and why they get too much hate.
 - 😄 Pronouns: He/him
