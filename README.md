@@ -18,8 +18,8 @@
 
 ### :man_technologist: About Me : I am a Full-Stack Developer based in Durham, UK.
 
-- 🔭 I’m currently working on a kanban board project for use in educational settings, using Firebase, React, and Material UI.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I’m currently working on a HeroLab/Discord bot integration.
+- 🌱 I’m currently deepening my understand of JavaScript, especially front-end development tools like Storybook and RTL.
 - 💬 Ask me about nested ternary operators and why they get too much hate.
 - 😄 Pronouns: He/him
 
